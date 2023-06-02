@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" >StoryApp</string>
+    <string name="appwidget_text">CONTOH</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget</string>
+    <string name="app_login_page_title">Masuk</string>
+    <string name="app_register_page_title" >Daftar</string>
+    <string name="app_login_button">Masuk</string>
+    <string name="app_register_button">Daftar</string>
+    <string name="app_login_page_subtitle" >Login ke akunmu</string>
+    <string name="app_register_page_subtitle" >Daftarkan akun</string>
+    <string name="app_login_page_email_hint">Email</string>
+    <string name="app_login_page_password_hint">Sandi</string>
+    <string name="app_register_page_email_hint">Email</string>
+    <string name="app_register_page_password_hint" >Sandi</string>
+    <string name="app_register_page_name_hint">Nama</string>
+    <string name="app_button_add_story" >Tambah Cerita</string>
+    <string name="app_text_description" >Deskripsi</string>
+    <string name="app_text_publish">Publikasi</string>
+    <string name="app_text_by" >oleh</string>
+    <string name="app_text_published_on">Dipublikasi pada</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="app_text_toggle_enable_location">Aktifkan Lokasi</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="app_text_loading_indicator">Memuat...</string>
+    <string name="app_text_fill_all_the_fields">Tolong Lengkapi Form</string>
+    <string name="app_text_upload_story">Upload Story</string>
+</resources>
